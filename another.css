@@ -1,0 +1,30 @@
+h1 {
+   text-decoration: capitalise;
+   text-decoration: bold; 
+   text-align: center;
+}
+body {
+background-color:#cacaca;
+font-family: 'Urbanist' , sans-serif;
+margin: 100px;
+padding: 20px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-content: center;
+}
+p {
+    text-align: center;
+}
+#img-div {
+    background-color: snow;
+    border-radius: 15px; 
+    display: flex;
+    flex-direction: column;
+}
+img { 
+    border-radius: 15px;
+    max-height: 100%;
+    max-width: 100%;
+    margin: 10px;
+}
